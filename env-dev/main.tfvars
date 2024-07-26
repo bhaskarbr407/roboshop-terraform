@@ -6,7 +6,7 @@ default_vpc_cidr = "172.31.0.0/16"
 default_vpc_rtid = "rtb-0b9a867762d6530ba"
 kms_arn          = "arn:aws:kms:us-east-1:633788536644:key/dce90622-5a23-4f82-a639-be841f534702"
 domain_name      = "rdevopsb72.online"
-domain_id        = "Z03986262CQPCHNJNZM9L"
+domain_id        = "Z05037461VOE1IVXJOFDE"
 
 
 vpc = {
